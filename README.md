@@ -1,7 +1,7 @@
 Bello
 =====
 
-Bello is a simple code formatting utility writting in Ruby.
+Bello is a simple code formatting utility written in Ruby.
 
 **Authors: Adhithya Rajasekaran, Sri Madhavi Rajasekaran**
 
