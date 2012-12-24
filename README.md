@@ -14,3 +14,5 @@ Currently, the following languages are supported
 
 Documentation is on the way too!
 
+If you find any bugs, please submit an issue. We will look into it as soon as possible. 
+
