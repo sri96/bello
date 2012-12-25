@@ -10,7 +10,6 @@ Released under MIT License.
 Currently, the following languages are supported
 
 - Matlab
-- Ruby(on the way!)
 
 Documentation is on the way too!
 
