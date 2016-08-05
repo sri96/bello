@@ -15,4 +15,6 @@ Documentation is available at https://github.com/adhithyan15/bello/wiki/Bello-Do
 
 If you find any bugs, please submit an issue. We will look into it as soon as possible. 
 
+Authors: Adhithya Rajasekaran and Sri Madhavi Rajasekaran
+
 
