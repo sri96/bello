@@ -11,7 +11,7 @@ Currently, the following languages are supported
 
 - Matlab
 
-Documentation is available at https://github.com/adhithyan15/bello/wiki/Bello-Documentation
+Documentation is available at https://github.com/sri96/bello/wiki/Bello-Documentation
 
 If you find any bugs, please submit an issue. We will look into it as soon as possible. 
 
